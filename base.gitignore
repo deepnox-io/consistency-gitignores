@@ -1,7 +1,15 @@
 #
 # # base.gitignore
 # 
-# > A common `.gitignore` file to exclude various IDE (Jetbrains Idea, VisualStudio, VSCode).
+# >
+# > A common `.gitignore` file to exclude various IDE (Jetbrains Idea, VisualStudio, VSCode) provided by the [Deepnox Team](https://deepnox.io).
+# >
+# > This file is a part of the open source project [deepnox-io/consistency-gitignores](https://github.com/deepnox-io/consistency-gitignores).
+# > 
+#
+# ## Synopsis
+#
+# A common `.gitignore` file to exclude various IDE (Jetbrains Idea, VisualStudio, VSCode) provided by the [Deepnox Team](https://deepnox.io).
 #
 # ## License
 #
