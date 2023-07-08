@@ -1,4 +1,4 @@
-# CHANGELOG of deepnox/consistency-gitignores
+# CHANGELOG of deepnox-io/consistency-gitignores
 
 ## v0
 
