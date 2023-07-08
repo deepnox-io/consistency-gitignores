@@ -13,7 +13,7 @@ A set of `.gitignore` templates usable to quickly start a standardized project.
 ## License
 
 >
-> Copyright 2023 Deepnox SAS, France
+> Copyright 2023 [Deepnox SAS](https://deepnox.io), France
 >
 > Permission is hereby granted, free of charge, to any person obtaining a copy 
 > of this software and associated documentation files (the “Software”), to 
