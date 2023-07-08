@@ -1,6 +1,10 @@
 # deepnox/consistency-gitignores
 
+>
 > A set of `.gitignore` templates usable to quickly start a standardized project.
+>
+> 🚀 Powered by the [Deepnox Team](https://deepnox.io).
+>
 
 ## Synopsis
 
