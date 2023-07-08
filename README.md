@@ -1,4 +1,4 @@
-# deepnox/gitignore
+# deepnox/consistency-gitignores
 
 > A set of `.gitignore` templates usable to quickly start a standardized project.
 
