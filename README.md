@@ -6,6 +6,9 @@
 > 🚀 Powered by the [Tamia Team](https://tamia.team).
 >
 
+**Contributing 🙂 and/or [sponsoring]((https://github.com/sponsors/tamia-team)) 🥰 are welcome!**
+
+
 ## Synopsis
 
 A set of `.gitignore` templates usable to quickly start a standardized project.
