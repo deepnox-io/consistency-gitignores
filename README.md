@@ -1,9 +1,9 @@
-# deepnox/consistency-gitignores
+# tamia-team/oss-gitignores
 
 >
 > A set of `.gitignore` templates usable to quickly start a standardized project.
 >
-> 🚀 Powered by the [Deepnox Team](https://deepnox.io).
+> 🚀 Powered by the [Tamia Team](https://tamia.team).
 >
 
 ## Synopsis
@@ -13,7 +13,7 @@ A set of `.gitignore` templates usable to quickly start a standardized project.
 ## License
 
 >
-> Copyright 2023 [Deepnox SAS](https://deepnox.io), France
+> Copyright 2023 [Tamia SAS](https://tamia.team)), Saint-Etienne 42100, France 🇫🇷
 >
 > Permission is hereby granted, free of charge, to any person obtaining a copy 
 > of this software and associated documentation files (the “Software”), to 
@@ -32,8 +32,8 @@ A set of `.gitignore` templates usable to quickly start a standardized project.
 > LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING 
 > FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 >
-> Except as contained in this notice, the name of the "Deepnox SAS" shall not
+> Except as contained in this notice, the name of the "Tamia SAS" shall not
 > be used in advertising or otherwise to promote the sale, use or other dealings
-> in this Software without prior written authorization from the Deepnox SAS company.
+> in this Software without prior written authorization from the Tamia SAS company.
 >
 
